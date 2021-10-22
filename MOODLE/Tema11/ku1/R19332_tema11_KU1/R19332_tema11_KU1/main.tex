@@ -1,0 +1,61 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+\usepackage{graphicx}
+\graphicspath{{images/}}
+\usepackage{fancyhdr}
+\usepackage{makeidx}
+\usepackage{natbib}
+\usepackage{hyperref}
+\pagestyle{fancy}
+\makeindex
+\makeatletter
+
+
+
+\input{title}
+
+\begin{document}
+
+
+\thispagestyle{empty}
+
+\tableofcontents
+\clearpage
+
+\chapter{STAVEBNÍ PAMÁTKY}
+
+\input{chapters/chapter1}
+
+\chapter{KOSTELY}
+\input{chapters/chapter2}
+
+\chapter{MUZEA}
+\input{chapters/chapter3}
+
+\chapter{OKOLÍ PAŘÍŽE }
+\input{chapters/chapter4}
+
+\listoffigures
+
+
+
+\printindex
+
+
+
+
+\begin{thebibliography}{H99}
+\bibitem{allen} ALLEN, Grant, Android 4: průvodce programováním mobilních aplikací. Brno: Computer Press, 2013. 978-80-251-3782-6. 
+\bibitem{cada} ČADA, Ondřej. Objektové programování: naučte se pravidla objektového myšlení. Praha: Grada, 2009. 978-80-247-2745-5.
+\bibitem{lacko} LACKO, Ľuboslav. Mistrovství - Android. Brno: Computer Press., 2017. 978-80-251-4875-4.
+\bibitem{pecinovsky} PECINOVSKÝ, Rudolf.  OOP a Java 8. Návrh a vývoj složitějšího projektu vyhovujícího zadanému rámci. Nakladatelství Tomáš Bruckner. Řepík-Živonín 2015. 978-80-87924-03-7.
+\bibitem{nelson} NELSON, Tanner a WRIGHT Logan. Vapor Documentation [online]. [cit. 2021-03- 07]. Dostupné z: https://docs.vapor.codes
+\bibitem{rodreguaze} RODREGUAZE, Sophia, Java Library: 10+ Best Libraries for Java Programmers [online]. [cit. 2021-03-07]. Dostupné z: http://noeticforce.com/useful-java-libraries
+\end{thebibliography}
+
+
+
+
+
+\end{document}

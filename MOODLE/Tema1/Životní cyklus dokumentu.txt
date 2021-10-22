@@ -1,0 +1,56 @@
+Životní cyklus dokumentu
+Životní cyklus dokumentu
+Vznik elektronického dokumentu
+Obecně se dá říci, že dokument do firmy přichází či ve firmě vzniká v elektronické podobě nebo je do firmy doručen jako papírový dokument. V prvním případě je dokument již připraven pro zařazení do DMS systému, ve druhém je třeba ho převést - naskenovat do elektronické podoby. Pod pojmem skener si dnes již každý něco představí, hodně lidí už ho má i doma, nicméně je třeba upřesnit, že při produktivním provozu se obvykle používají tzv. dokumentové skenery, které umožňují zpracovat větší počty dokumentů, podporují dávkové skenování a jsou stavěné na odpovídající zátěž.
+
+Je třeba si uvědomit rozdíl mezi běžným naskenováním obrázku a profesionálním využitím, kdy do firmy přichází stovky nebo tisíce dokumentů denně, které je třeba rychle začlenit do systému a zpracovat. Potom rychlost opravdu hraje svoji roli a typický postup zpracování vypadá následovně:
+
+
+Příprava dokumentů - roztřídění dokumentů podle typů, odstranění sponek, separace dokumentů (pokud se skenuje dávka dokumentů, je třeba definovat začátek nového dokumentu - často se používá čárový kód, který zároveň zajišťuje vazbu mezi elektronickým dokumentem a originálem a případně nese i další informace)
+Vlastní skenování - probíhá dávkově, přičemž se vytvoří vlastní elektronický soubor a, což je velmi důležité, proběhne i kontrola čitelnosti pořízených dokumentů, která většinou zabere výrazně více času než vlastní skenování.
+Uložení do systému DMS - dokumenty se ze skenovací stanice přenesou do úložiště dokumentů (archivní server, databáze, …), a to jednotlivě (v případě, že uživatel přímo provádí alespoň částečnou atributizaci), nebo hromadně, v tom případě se přesouvá celá dávka najednou, a jsou připraveny pro další zpracování.
+
+Zařazení dokumentu do DMS
+
+V okamžiku, kdy máme dokumenty v systému, může začít jejich zpracování. První činností, která musí být provedena, je přiřazení atributů k dokumentům, které slouží k jejich identifikaci, vyhledání nebo třídění. Atributy obecně můžeme rozdělit do následujících skupin:
+
+
+Systémové atributy - generované systémem, patří k nim např. datum skenování, jméno uživatele, který skenovat, adresa skenovací stanice a zejména jednoznačný identifikátor dokumentu a archivu, kde se dokument nalézá.
+Další atributy přenášené ze skenovací stanice - jedná se o atributy, které zadává pracovník provádějící skenování, nebo atributy, které byly vygenerovány z dokumentu. Velmi často se používá samolepka s již zmíněným čárový kód, která se nalepí na každý došlý dokument a jednoznačně ho identifikuje. Tento kód se rozpozná a automaticky přenese jako jeden z atributů dokumentu. Další možností jsou atributy generované pomocí OCR. Tuto možnost můžeme využít, pokud jde o alespoň částečně strukturované dokumenty, u kterých můžeme definovat oblasti pro rozpoznávání.
+Atributy specifické pro daný typ dokumentu - jde o atributy, které u určitého dokumentu chceme evidovat. Jsou zadávány obsluhou, nebo doplněny systémem na základě již zadaných dat. Velmi důležitou vlastností DMS systémů je možnost připojení atributů z externích databází, tzn. ostatních systémů používaných u zákazníka.
+
+Zpracování dokumentu
+
+Jen u velmi malého množství došlých dokumentů končí jejich zpracování uložením do datového úložiště. Ve většině případů je potřeba zajistit jejich doručení příslušné osobě, jejich schválení nebo odeslání do dalších firemních procesů. K tomu nabízejí DMS systémy následující možnosti podpory.
+
+K podpoře procesu zpracování dokumentu slouží worklflow. Obecně rozlišujeme tzv. ad-hoc workflow, kde každý uživatel vybírá následujícího zpracovatele, nebo standardní workflow, kde zodpovědný uživatel (koordinátor) vybere jednu z přednastavených definic směřování, podle které pak proběhne schválení. V praxi však i ve druhém případě musí mít koordinátor možnost zásahu a případně předefinice směřování, protože představa, že všechny procesy budou jednoznačně definovány je sice možná, ale v praxi často příliš nákladná (myslím, že i zde platí známé pravidlo 80:20 - na pokrytí posledních 20 % procesů bychom vynaložili 80 % nákladů). Workflow vychází, respektive kopíruje daný proces. Pokud proces nefunguje, implementace workflow nepomůže, a proto je vždy nutné se nejprve věnovat danému procesu a teprve v okamžiku, kdy je řešení procesně navrženo, ho podpořit technologiemi.
+
+Mezi často používané nástroje na zpracování většího množství dokumentů patří schránky, typickým příkladem jsou zákaznická centra. Dokumenty, které do společnosti přichází se třídí do jednotlivých schránek. Ke každé schránce je přiřazen jeden nebo více operátorů, kteří si dokumenty postupně ze schránky vybírají, zpracovávají a předávají dál.
+
+Narozdíl od došlých dokumentů, které do firmy přichází a ve většině případů se již nemění, existují ve firmě též dokumenty, které zde vznikají, a to jak pro interní potřebu, tak i pro přenos informací mimo firmu. Tyto dokumenty můžeme rozdělit do následujících skupin:
+
+
+Výstupní dokumenty z firemních systémů - jedná se zejména o faktury, objednávky či upomínky, které se většinou, pokud to nějaké speciální řešení nevyžaduje, do DMS neukládají,
+Interní dokumenty - vznikají pro interní potřebu společnosti, často jsou důvěrné a obvykle jsou na ně přímo navázané procesy schvalování a uvolňování, typickým příkladem jsou interní směrnice nebo ISO dokumentace,
+Odchozí dokumenty - ty, které si firma vyměňuje s externími subjekty (např. smlouvy) nebo vytváří na zakázku (např. projektová dokumentace, nabídky, …).
+
+Pro zpracování těchto dokumentů je důležité, aby bylo systémem podporováno řízení práce více uživatelů nad jedním dokumentem a řízení jednotlivých verzí dokumentů. Musí existovat úzké propojení na aplikace, ve kterých dokumenty vznikají (MS Office, CAD nástroje apod.), a možnost přenosu atributů mezi jednotlivými aplikacemi. Nezbytná je také možnost elektronického schválení dokumentu, případně snadného vytvoření nové, doplněné verze v průběhu schvalování. Dále je nutné, aby u dokumentů byla nastavena přístupová práva, případně aby byl přístup umožněn pouze k platným dokumentům.
+
+
+Archivace dokumentu
+
+Pod slovem archivace si každý většinou představí hory papíru, kterých se zbaví tím způsobem, že je jednou za čas přesune do archivu. Samozřejmě, že DMS systém musí tuto archivaci papírových dokumentů podporovat, nicméně u elektronických dokumentů to funguje trochu jinak. Místo kancelářského prostoru nás zajímá prostor na disku, který dnes již většinou nepatří mezi problémové oblasti (samozřejmě záleží na počtu a velikosti dokumentů). Vlastní archivace se pak většinou odehrává na úrovni atributů dokumentů a znamená pouze označení vybraných dokumentů jako archivovaných, případně logický přesun těchto dokumentů do jiné složky.
+
+Pokud bychom chtěli dokumenty archivovat i fyzicky, nebo v případě většího počtu dokumentů, je velmi vhodné použít tzv. archivní server, který zajistí následující funkce:
+
+
+bezpečné uložení dokumentů na harddisk nebo optická média,
+zabezpečení dokumentu, šifrování, komprese,
+možnost členění dokumentů do logických archivů,
+přímé připojení na jukeboxy pro ukládání dokumentů na optická média (CD, WORM, DVD),
+automatickou podporu vytváření záložních kopií (např. CD), které je možné ukládat odděleně na bezpečné místo.
+Literatura:
+
+https://www.systemonline.cz/clanky/zivotni-cyklus-dokumentu.htm
+
+Naposledy změněno: pondělí, 8. února 2021, 11.15

@@ -1,0 +1,11 @@
+01. úkol
+
+Vysázejte titulní stranu závěrečné práce. Předpokládejte předdefinovaný formát papíru. Texty a jejich umístění:
+
+    V horní části stránky na střed nápis "Ostravská univerzita", obyčejným řezem, 12 bodů.
+    Vynechte svislý prostor o velikosti čtvrtiny výšky stránky.
+    Název práce - na střed: "Závěrečná práce z ELPUT", tučný řez, 20 bodů.
+    Vynechte svislý prostor o velikosti čtvrtiny výšky stránky.
+    Na levý okraj vysázejte text: "Autor: jméno a příjemní", na pravý okraj do stejného řádku text "Ostrava, rok". Obojí obyčejným řezem, 12 bodů.
+
+Výsledný TEX zkopírujete zde a přiložíte vygenerovaný PDF soubor.

@@ -1,0 +1,9 @@
+01. úkol
+
+Pro splnění tohoto úkolu využijte text: Paříž (seminární úkol) - obrázky a tabulky zatím vynechte.
+
+    Tento text vysázejte jako knihu a správně proveďte členění dokumentu.
+    Dokument kromě nadpisů a odstavců bude obsahovat obsah.
+    Nezapomeňte vysázet úvodní stranu, viz předchozí úkoly.
+
+Odevzdejte jak PDF soubor, tak i TEX.

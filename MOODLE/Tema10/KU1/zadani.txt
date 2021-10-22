@@ -1,0 +1,5 @@
+01. úkol
+
+Pro splnění tohoto úkolu využijete TEX soubor z minula o Paříži. Vašim cílem je doplnit tento soubor o uvedené obrázky (klidně můžete použít i své obrázky) v počtu: alespoň 5 obrázků + jejich titulky.
+
+Odevzdejte PDF soubor a TEX soubor.

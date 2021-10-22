@@ -1,0 +1,15 @@
+02. semestrální úkol - určený pro neabsolventské ročníky
+
+Vašim úkolem je vysázet soubor v prostředí LaTeX. Vaše řešení musí splňovat následující body:
+
+    Soubor bude obsahovat minimálně 30 stran (do toho počtu se nepočítají úvodní stránky).
+    První stránka bude Úvodní - titulek, jak jste zvyklí (např. nahoře uprostřed Ostravská univerzita, uprostřed název práce, pod tím typ práce, dole autor a rok).
+    Druhá stránka bude Obsah.
+    Od obsahu bude váš text, který bude obsahovat kapitoly (1-3. úroveň číslování kapitol), odstavce.
+    Práce bude obsahovat aspoň 5 obrázků a aspoň 1 tabulku + titulky. n konci vygenerujte seznam obrázků, seznam tabulek (tabulky).
+    Práce bude obsahovat práci s citacemi (bude obsahovat minimálně 10 literárních pramenů: aspoň 1 časopis, aspoň 1 článek ve sborníku, aspoň 1 kniha, aspoň 1 webová stránka).
+    V závěru opět uveďte, co Vám dělalo nejvší problémy atd.
+
+Téma práce je na Vás (libovolná semestrální práce, pokud už někdo zpracovává závěrečnou práci). Nejde mi o význam textu, ale o to, jak to budete sázet.
+
+Výsledný TeX + PDF odevzdejte zde, pokud budete mí více souborů, prosím vytvořte ZIP či RAR.

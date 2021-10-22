@@ -1,0 +1,21 @@
+\documentclass[a4paper,12pt,oneside]{article}
+
+\begin{document}
+\begin{titlepage}
+\begin{center}
+
+\Large{Ostravská univerzita} \\
+
+\vspace{8cm}
+
+\huge{\textbf{Závěrečná práce z ELPUT}}\\
+
+\vspace{9cm}
+
+\end{center}
+
+\normalsize{Autor: Jan Sonnek \hfill Ostrava, 2021}
+
+\end{titlepage}
+
+\end{document}

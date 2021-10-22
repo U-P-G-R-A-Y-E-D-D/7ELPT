@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+ 
+
+\begin{document}
+
+
+\begin{tabular}{|c|c|c|c|c|c|c|}\hline
+\multicolumn{7}{|c|}{PRODEJNÍ CENA VÝROBKŮ} \\ \hline
+
+\multicolumn{6}{|c|}{ÚPLNÉ VLASTNÍ NÁKLADY VÝROBKU} & \\ \cline{1-6}
+\multicolumn{3}{|c|}{Přímé náklay} & \multicolumn{3}{|c|}{Režijní náklay} & ZISK \\ \cline{1-6}
+mzdy & mat. & ostatní & výrobní & správ. & odbyt & \\ \cline{1-7}
+
+\multicolumn{3}{|c|}{} & \multicolumn{4}{|c|}{Hrubé rozpětí} \\ \hline
+\end{tabular}
+
+\end{document}

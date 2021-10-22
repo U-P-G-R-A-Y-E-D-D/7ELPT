@@ -1,0 +1,18 @@
+01. úkol
+
+Vyšim úkolem je vysázet delší text s 10 odstavci a to následovně:
+
+    1. odstavec bude obsahovat v textu všechny druhy stupně písma.
+    2. odstavec bude nastavíte na antikvu.
+    3. odstavec bude nastavíte na grotesk.
+    4. odstavec bude nastavíte na strojopis.
+    5. odstavec bude nastavíte na netučné.
+    6. odstavec bude nastavíte na polotučné.
+    7. odstavec bude nastavíte na vzpřímené.
+    8. odstavec bude nastavíte na skloněné.
+    9. odstavec bude nastavíte na kurzívu.
+    10. odstavec bude nastavíte na kapitálky.
+
+Text může být Lorem ipsum.
+
+Výsledný text z LaTeX můžete zkopírovat zde a přiložíte PDF soubor.

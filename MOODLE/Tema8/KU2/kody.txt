@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+
+\section{Objektově orientované programování}
+
+\begin{description}
+\item [Třída] -- Třída popisuje implementaci množiny objekt reprezentují stejný druh systémové komponenty (složky).
+\item [Objekt] -- Základem objektových systémů je objekt.
+\item [Zapouzdřenost] -- Podstatou zapouzdřenosti je, že k datovým atributům přistupujeme výhradně prostřednictvím metod.
+\item [Konstruktor] -- Konstruktor je speciální metoda, pro vytváření a inicializaci nových objektů (instancí).
+\item [Kopírovací konstruktor] -- Kopírovací konstruktor je speciálním typem konstruktoru, který má na vstupu parametr stejného typu jako vlastní konstruktor.
+\item [Dědičnost] -- Dědičnost v objektově orientovaném přístupu představuje mechanismus vytváření tříd a podtříd.
+\item [Abstraktní třída] -- Abstraktní třída je taková třída, která deklaruje alespoň jednu abstraktní metodu.
+\item [Rozhraní] -- Rozhraní v Javě dovoluje deklarovat pouze hlavičky metod, tedy pouze abstraktní metody a navíc třídní (statické) neměnné (modifikátor final) datové atributy.
+\item [Spojový seznam] -- Spojový seznam je lineární datová struktura, která je charakteristická tím, že její prvky (říkáme jim uzly) odkazují sami na sebe.
+\item [Koncept] -- Koncept je zevšeobecňující představa kolekce jevů, založena na znalostech společných vlastností jevů v kolekci.
+\end{description}
+
+\section{Z Ostravy do Prahy}
+
+\begin{enumerate}
+\item Ostrava
+\item Studénka
+\item Jeseník nad Odrou
+\item Polom
+\item Hranice
+\item Lipník nad Bečvou
+\item Přerov
+\item Brodek u Přerova
+\item Olomouc
+\item Lukavice
+\item Zvole
+\item Zábřeh
+\item Hoštejn
+\item Třebovice
+\item Česká Třebová
+\item Dlouhá Třebová
+\item Ústí nad Orlicí
+\item Brandýs nad Orlicí
+\item Choceň
+\item Moravany
+\item Pardubice
+\item Přelouč
+\item Řečany nad Labem
+\item Trnávka
+\item Chvaletice
+\item Kojice
+\item Týnec nad Labem
+\item Záboří nad Labem
+\item Starý Kolín
+\item Kolín
+\item Pečky
+\item Poříčany
+\item Česk Brod
+\tem Úvaly
+\item Praha
+\end{enumerate}
+
+
+\end{document}

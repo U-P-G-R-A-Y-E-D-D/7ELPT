@@ -1,0 +1,8 @@
+01. úkol
+
+Vložte do prvního dokumentu větší množství textu, aby vysázený tvar obsahoval nejméně dvě plné stránky.
+
+    jednotlivé odstavce oddělujte prázdným řádkem,
+    v textu použijte jen písmena, číslice a běžnou interpunkci - tečku, čárku, dvojtečku, středník, otazník a vykřičník.
+
+Pokud budete používat editor Overleaf, zdrojový text zkopírujte rovnou zde a přiložte pouze vygenerovaný PDF soubor.

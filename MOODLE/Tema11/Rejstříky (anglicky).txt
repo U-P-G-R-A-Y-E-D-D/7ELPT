@@ -1,0 +1,1 @@
+https://www.overleaf.com/learn/latex/Indices#Parameters_for_the_%5Cmakeindex_command

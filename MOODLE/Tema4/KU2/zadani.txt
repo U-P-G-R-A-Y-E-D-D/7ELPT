@@ -1,0 +1,7 @@
+02. úkol
+
+Pro splnění tohoto úkolu využijte soubor z úkolu 01.
+
+Zobrazte si v editoru soubor prvni.log a podívejte se, jaké informace vypsal překladač o průběhu překladu.
+
+Editor Overleaf tento log nabízí rovnou v prohlížeči, tento text zkopírujete zde do úkolu.

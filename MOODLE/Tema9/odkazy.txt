@@ -1,0 +1,6 @@
+Záhlaví, a rozměry zápatí stránek
+https://homel.vsb.cz/~s1a10/educ/EPubl/latex-docbook/ch06s05.html
+
+
+LaTeX - záhlaví a zápatí dokumentu URL
+http://jankoweb.wz.cz/blog/odborny-sw/latex-zahlavi-a-zapati-dokumentu/

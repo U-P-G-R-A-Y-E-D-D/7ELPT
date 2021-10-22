@@ -1,0 +1,6 @@
+Programovací kód v textu
+https://www.overleaf.com/learn/latex/Code_listing
+
+
+Vkládání matematických vzorců
+http://frcatel.fri.uniza.sk/~beerb/latex/LaTeX-help/j.html

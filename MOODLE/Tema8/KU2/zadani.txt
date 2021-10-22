@@ -1,0 +1,8 @@
+02. úkol
+
+Vysázejte dva seznamy:
+
+    seznam bude obsahovat deset důležitých pojmů z nejoblíbenějšího předmětu. U každého pojmu uveďte jeho krátké vysvětlení. Použijte prostředí description.
+    seznam bude obsahovat seznam měst cesty z Ostravy do Prahy (zkuste více prostudovat mapy.
+
+Výsledný TEX soubor zkopírujte zde a přiložte PDF soubor.

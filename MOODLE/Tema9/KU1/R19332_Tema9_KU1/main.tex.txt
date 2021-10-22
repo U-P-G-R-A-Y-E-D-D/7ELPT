@@ -1,0 +1,34 @@
+\documentclass[12pt]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[czech]{babel}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\input{title}
+
+\begin{document}
+
+
+\thispagestyle{empty}
+
+\tableofcontents
+\clearpage
+
+\chapter{STAVEBNÍ PAMÁTKY}
+\input{chapters/chapter1}
+
+\chapter{KOSTELY}
+\input{chapters/chapter2}
+
+\chapter{MUZEA}
+\input{chapters/chapter3}
+
+\chapter{OKOLÍ PAŘÍŽE }
+\input{chapters/chapter4}
+
+
+
+
+
+\end{document}

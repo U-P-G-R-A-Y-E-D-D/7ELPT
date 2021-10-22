@@ -1,0 +1,9 @@
+01. úkol
+
+Úkol bude orientovaný na rejstřík, křížové odkazy a na citace. Pro splnění tohoto úkolu vyžijete úkol o Paříži z minulého tématu. Tento soubor doplníte o:
+
+    minimálně 10 libovolných hesel (pojmů) do rejstříku,
+    aspoň 5 křížových odkazů (například na obrázek),
+    vytvoříte seznam (v počtu minimálně 5 literárních pramenů) literatury, který již máte hotový v prvním semestrálním úkolu. Nezapomeňte na citování v textu.
+
+Odevzdejte PDF soubor + TEX.

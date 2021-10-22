@@ -1,0 +1,12 @@
+03. úkol
+
+Pokračujte s textem z prvního úkolu.
+
+Vašim cílem je si vyzkoušet volitelné parametry příkazu \documentclass a vysázejte tyto varianty dokumentu:
+
+    formát papíru A5,
+    formát papíru A4, základní písmo 12 pt,
+    formát papíru B5 na šířku, základní písmo 11 pt,
+    formát papíru A5, dvoustranný dokument.
+
+Odevzdejte pouze PDF soubory, které přejměnujete, jak jdou za sebou v seznamu: 1.pdf, 2.pdf, 3.pdf, 4.pdf

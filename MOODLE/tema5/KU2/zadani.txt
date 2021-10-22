@@ -1,0 +1,5 @@
+02. úkol
+
+Vyberte si soubor s libovolným typem písma (z předešlého úkolu) a ten zkontrolujte z pohledu vkládání nezlomitelných mezer za jednoznakové předložky a spojky.
+
+Odevzdejte výsledný PDF soubor + zkopírujte zde zdrojový text.

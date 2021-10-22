@@ -1,0 +1,20 @@
+01. semestrální úkol
+
+Vašim úkolem je zpracování textu o Paříži. Vzorový soubor zpracujte dle následující instrukcí:
+
+    Vzorový soubor o Paříži (texty) se nachází pod zadání tohoto úkolu.
+    Tento vzorový soubor aplikujete do stylu bakalářské a diplomové práce Ostravské univerzity (šablony lze nalézt na portále, nebo se nachází pod zadání tohoto úkolu).
+    Název práce: Paříž a typografie
+    Typ práce: SEMINÁRNÍ PRÁCE
+    Autorem budete Vy.
+    Zadání (3. strana), abstrakt (4. strana), úvod (8. strana): tyto strany přeskočíte a začnete pracovat od 1. kapitoly.
+    V textu o Paříži se nacházejí nadpisy N1 (nadpis 1. úrovně), N2 (nadpis 2. úrovně), N3 (nadpis 3. úrovně)
+    Nezapomeňte titulky k obrázkům, tabulkám a grafům, tak aby byly titulky generovatelné na konci dokumentu pod příslušným nadpisem.
+    Do závěru napíšete, co Vám dělalo nejvíce problémů.
+    Resumé a summary opět přeskočíte.
+    Seznam použité literatury
+        Tento seznam bude propojený s Citacepro.cz (citacepro.com).
+        Tento seznam bude obsahovat minimálně 10 literárních pramenů: aspoň 1 časopis, aspoň 1 článek ve sborníku, aspoň 1 kniha, aspoň 1 webová stránka.
+        Citace propojíte správně s textem dle směrnice OU.
+
+Zde odevzdáte 2 soubory: PDF soubor a originální DOCX soubor.

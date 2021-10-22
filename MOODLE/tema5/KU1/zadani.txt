@@ -1,0 +1,10 @@
+01. úkol
+
+Vysázejte text s textem např. o Paříži (viz minulé úkol) nebo z minulé hodiny (požadavek je aspoň 2 strany A4) postupně písmem Palatino, Times, Bookmam a Computer Modern. Porovnejte čitelnost a plošný rozsah dokumentu v závislosti na typu písma.
+
+Odevzdejte všechny 4 soubory (.tex).
+
+Doporučení:
+
+    K definování typu písma celého dokumentu využijte \usepackage{?}
+    Pokud používáte Overleaf, stačí zkopírovat zdrojový text do PsPadu (Poznámkový blok) a uložit tento soubor jako .tex
